@@ -5,5 +5,6 @@ __pycache__/
 CNN.pt
 RNN.pt
 DNN.pt
+README.assets/
 
 .DS_Store
